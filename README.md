@@ -1,2 +1,2 @@
 # Demo
-This is first repositroy.
+This is the first repositroy.
